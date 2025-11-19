@@ -1,0 +1,24 @@
+# Cache files
+EQGT_cache_*.json
+*_test_cache.json
+
+# Generated output files
+EQGT_*_Pricing.csv
+EQGT_*_Pricing.md
+EQGT_EC_Sell_List.csv
+EQGT_EC_Sell_List.md
+EQGT_Character_Inventory_Summary.txt
+EQGT_Equipped_Gems_Table.txt
+EQGT_Equipped_Gems_Table.mmd
+EQGT_Equipped_Gems_Table_Detailed.mmd
+
+# Previous version zips
+EQ_Green_Tools_V*.zip
+
+# Release update files (development only)
+EQGT_V*_Release_Updates.md
+EQGT_V*_Final_Release_Updates.md
+
+# Temporary files
+*.tmp
+*.log

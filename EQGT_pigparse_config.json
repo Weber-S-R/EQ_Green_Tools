@@ -1,0 +1,18 @@
+{
+    "BaseUrl": "https://api.pigparse.org",
+    "ApiKey": "",
+    "DefaultTimeout": 30,
+    "Endpoints": {
+        "Health": "/health",
+        "Data": "/data",
+        "Parse": "/parse",
+        "Analyze": "/analyze",
+        "Search": "/search",
+        "Export": "/export"
+    },
+    "Logging": {
+        "Enabled": true,
+        "LogFile": "logs/EQGT_pigparse.log",
+        "LogLevel": "INFO"
+    }
+}
