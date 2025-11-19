@@ -6,6 +6,8 @@
 **Purpose:** Final release changelog for V3.0 - All bugs fixed, stable release
 
 ---
+EQ Green Tools (EQGT) - PowerShell toolkit for EverQuest Project 1999 Green Server inventory management and pricing. Features bulk price lookups via PigParse API, 7-day caching, multi-character support, CSV/Markdown exports, and built-in diagnostics. Automatically prices inventory items and generates sell lists with platinum values.
+---
 
 ## Special Thanks
 
